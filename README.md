@@ -1,5 +1,5 @@
 # weaponShop
-Online Web Application - Full-Stack Implementation of AWS Services
+Online Web Application - Full-Stack Prototype of AWS Services
 
 Both front-end and back-end has been implemented via AWS services. We decided that a serverless approach via Amazon Web Services would be an optimal and enriching learning experience. 
 

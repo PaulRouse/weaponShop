@@ -17,7 +17,7 @@ Despite the many challenges with implementing AWS, it was worth it.
 
 We were able to build a website and host it, whilst also constructing the back-end, all for free. Going serverless would also mean that we wouldn't have to worry about hardware, architecture, latency issues, security, etc. AWS has enough tools that one who has a decent enough grasp of it can construct and perform anything. 
 
-PR/SK/TW/BC
+SK/BC/TW/PR
 
 HackGSU2018
 
